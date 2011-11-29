@@ -1,4 +1,4 @@
-Projeto que mostra como é simples criar métodos de extensão para tornar seus testes mais interessantes.
+Projeto que mostra como eh simples criar helpers para tornar o codigo dos seus testes legivel.
 
 > Exemplo:
 
