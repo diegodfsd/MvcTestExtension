@@ -1,0 +1,36 @@
+# Visual Studio artifacts
+bin
+obj
+release
+debug
+obj/*
+bin/*
+release/*
+debug/*
+.svn
+*.tmp
+*.user
+*.suo
+*.vsp
+*.csproj.VisualState.xml
+*.exe
+*.pdb
+*.vspscc
+*.vssscc
+*.Publish.xml
+*.cache
+
+# NUnit artifacts
+TestResult.xml
+
+# Resharper artifacts
+_ReSharper.*
+*.resharper
+
+# Nupkg artifacts
+*.nupkg
+
+# Tests
+*.testsettings
+*.vsmdi
+*.testsettings
